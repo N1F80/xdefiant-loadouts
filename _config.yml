@@ -4,3 +4,4 @@ description: >-
   Le meilleur site pour découvrir les loadouts de XDefiant.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://<votre-nom-utilisateur>.github.io/xdefiant-loadouts" # the base hostname & protocol for your site
+theme: jekyll-theme-minimal
